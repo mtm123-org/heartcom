@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781555207870",
+    "project_id": "heartcom-chat",
+    "storage_bucket": "heartcom-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781555207870:android:931a4612285d582e30d8ef",
+        "android_client_info": {
+          "package_name": "com.example.heartcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2IGi0d8R5PwrD85UGcMkdd3cQa0HGI2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

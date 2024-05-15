@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "heartcom-chat",
+          "appId": "1:781555207870:android:931a4612285d582e30d8ef",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "heartcom-chat",
+          "configurations": {
+            "android": "1:781555207870:android:931a4612285d582e30d8ef",
+            "ios": "1:781555207870:ios:243fedfe33ed30ab30d8ef",
+            "macos": "1:781555207870:ios:243fedfe33ed30ab30d8ef",
+            "web": "1:781555207870:web:9ec6224b8e81aed530d8ef",
+            "windows": "1:781555207870:web:c8151eca1e1edecc30d8ef"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-east1"
+    }
+  }
+}
